@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.AXTV" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/axtv_bg</item>
+        <item name="android:colorAccent">@color/axtv_accent</item>
+        <item name="colorPrimary">@color/axtv_accent</item>
+        <item name="colorPrimaryDark">@color/axtv_bg</item>
+        <item name="android:navigationBarColor">@color/axtv_bg</item>
+        <item name="android:statusBarColor">@color/axtv_bg</item>
+    </style>
+</resources>

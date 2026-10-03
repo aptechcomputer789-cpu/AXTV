@@ -1,0 +1,7 @@
+<resources>
+    <color name="axtv_bg">#0B1020</color>
+    <color name="axtv_card">#151C33</color>
+    <color name="axtv_text">#FFFFFF</color>
+    <color name="axtv_muted">#AAB2C8</color>
+    <color name="axtv_accent">#7C6CFF</color>
+</resources>
